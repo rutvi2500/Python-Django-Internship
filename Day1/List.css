@@ -1,0 +1,15 @@
+.body {
+  background-image: url("https://www.indiaeducation.net/imagesvr_ce/2224/Web%20Development%201.jpg");
+}
+.intro {
+  color: white;
+}
+.header {
+  color: white;
+}
+.list {
+  color: white;
+  align-items: center;
+  font-family: cursive;
+  padding-left: 2cm;
+}
