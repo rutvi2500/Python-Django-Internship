@@ -1,2 +1,2 @@
 # Python-Django-Internship
-15 days intenship under Aakash Technolabs
+15 days intenship under Aakash Technolabs.
